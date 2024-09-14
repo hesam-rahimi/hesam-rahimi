@@ -17,5 +17,4 @@
   <img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg" alt="email"/>
 </a>
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->

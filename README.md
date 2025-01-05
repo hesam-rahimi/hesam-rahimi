@@ -7,12 +7,11 @@
   <img alt="skills" src="https://skillicons.dev/icons?i=vite,css,html,git,github,postman,vscode" />
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex; align-items:center">
-  
-<a href="https://www.linkedin.com/in/hesam-rahimi" target="_blank" >
-  <img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="linkedin"/>
-</a>
-  
-<a href="mailto:hesam82rhm@gmail.com" target="_blank" >
-  <img align="center" src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg" alt="email"/>
-</a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/hesam-rahimi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:hesam82rhm@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
